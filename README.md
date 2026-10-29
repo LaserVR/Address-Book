@@ -37,8 +37,8 @@ Features
 ## 📁 Project Structure
 AddressBook
 │
-├── main.c
-├── contact.c
+├── main.c\n
+├── contact.c\n
 ├── contact.h
 ├── file.c
 ├── file.h
