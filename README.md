@@ -34,17 +34,10 @@ Features
   - Sorting
   - Modular Programming
 
-## 📁 Project Structure
-AddressBook
-│
-├── main.c\n
-├── contact.c\n
-├── contact.h
-├── file.c
-├── file.h
-├── contacts.txt
-├── addressbook.csv
-└── README.md
+📁 Project Structure
+<img width="132" height="143" alt="image" src="https://github.com/user-attachments/assets/dffa79d9-7031-4850-9901-8f7ee4ef4f01" />
+
+
 
 🧱 Data Structures
 
